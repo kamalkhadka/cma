@@ -11,6 +11,7 @@ returns list of contacts
 return a contact by id if found
 
 ### POST /contacts
+Create Contact.
 Sample json: 
 {firstName: "john", lastName: "doe", email: "john.doe@gmail.com" }
 
