@@ -1,6 +1,6 @@
 ## Customer Management Application
 
-This application allows you to add a contact, delete a contact, and update a contact.
+This application allows you to add a contact, delete a contact, and update a contact. It is built using Spring boot.
 
 # Endpoints
 
