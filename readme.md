@@ -1,6 +1,6 @@
 ## Customer Management Application
 
-This application allows you to add a contact, delete a contact, and update a contact.
+This application allows you to add a contact, delete a contact, and update a contact. It is built using Spring boot.
 
 # Endpoints
 
@@ -11,6 +11,7 @@ returns list of contacts
 return a contact by id if found
 
 ### POST /contacts
+Create Contact.
 Sample json: 
 {firstName: "john", lastName: "doe", email: "john.doe@gmail.com" }
 
